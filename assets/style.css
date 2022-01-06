@@ -1,4 +1,4 @@
-.google h1{
+.google{
     background-color: rgb(9, 131, 131);
     height: 65px;
     width: 120px;
@@ -8,8 +8,8 @@
     border-right: 5px solid rgb(77, 74, 74);
 }
 h1{
-    padding-left: 10px;
-    padding-top: 15px;
+    padding-left: 5px;
+    padding-top: 10px;
     color: white;
     text-align: center;
 }
